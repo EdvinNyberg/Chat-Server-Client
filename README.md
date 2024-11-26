@@ -131,10 +131,3 @@ Threads have finished. Exiting client.
 - **Server**: Press Enter in the terminal where the server is running to stop the server gracefully.
 - **Client**: Type 'exit' in the client to close the connection and exit gracefully.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-This README provides an overview of the chat application, including how to run the server and client, a brief description of the code, and examples of the output.
