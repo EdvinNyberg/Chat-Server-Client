@@ -9,6 +9,7 @@ socket and threading modules. It consists of a server and a client that allow mu
 ## Requirements
 
 - Python 3.x
+- ﻿sockets==1.0.0
 
 ## Usage
 
